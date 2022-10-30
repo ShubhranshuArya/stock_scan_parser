@@ -1,16 +1,8 @@
 # fitpage_assignment
 
-A new Flutter project.
+Stock Scan parser.
 
-## Getting Started
+## Assignment Prototype.
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/77967955/198861535-c240a2b4-ad13-4899-8588-a7abbac29b28.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
